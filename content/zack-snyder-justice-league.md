@@ -1,6 +1,6 @@
 ---
 title: Zack Snyder Justice League (2021 film)
-date: 1583777940720
+date: 1616107509000
 description: Five thousand years ago, Darkseid and his legion of Parademons attempted to conquer Earth using the Mother Boxes. The attempt was foiled by a unified alliance of Old Gods, Amazons, Atlanteans, Men and a Green Lantern, and the Mother Boxes were unintentionally left behind during their retreat. After the battle, the Boxes were hidden in different locations, guarded by the Amazons, Atlanteans, and Men, respectively.
 ---
 
