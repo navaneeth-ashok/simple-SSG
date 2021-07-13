@@ -8,4 +8,4 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "same-origin"
-    Permissions-Policy = "fullscreen=()"
+    Permissions-Policy = "fullscreen=(), autoplay=self, geolocation=self, picture-in-picture=self, sync-xhr=()"
